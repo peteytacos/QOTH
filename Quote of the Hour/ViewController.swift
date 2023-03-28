@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Quote of the Hour - Hoorah
+//  Quote of the Hour
 //
 //  Created by Peter Wallroth on 23/3/2023.
 //
