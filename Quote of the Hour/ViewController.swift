@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Quote of the Hour
+//  Quote of the Hour - Hoorah
 //
 //  Created by Peter Wallroth on 23/3/2023.
 //
@@ -23,4 +23,6 @@ class ViewController: NSViewController {
 
 
 }
+
+
 
